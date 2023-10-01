@@ -1,0 +1,3 @@
+GET {{ base_uri }}/universities-by-specialization?name=chemistry
+Accept: application/json
+Content-Type: application/json
